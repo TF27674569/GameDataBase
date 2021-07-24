@@ -1,0 +1,47 @@
+240320
+载入语言
+字库初始化
+收费初始化成功
+uiac初始化
+proc_playLogo
+gary_debug
+240320
+载入语言
+字库初始化
+收费初始化成功
+uiac初始化
+proc_playLogo
+无存档 NEW GAME
+cb_read 
+cb_read 
+雷欧之锁和主角碰撞 准备销毁
+o_addgameobj OBJ_PROP_BLUE
+cb_read 
+cb_read 
+变身前
+变身后
+cb_read 
+cb_read 
+变身前
+变身后
+1
+cb_read 
+cb_read 
+cb_pay
+bkp_resume
+smap_event_time_bkpres_redraw
+gary_debug
+240320
+载入语言
+字库初始化
+收费初始化成功
+uiac初始化
+proc_playLogo
+gary_debug
+240320
+载入语言
+字库初始化
+收费初始化成功
+uiac初始化
+proc_playLogo
+gary_debug

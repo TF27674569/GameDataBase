@@ -1,0 +1,2 @@
+@control action label= 0,state=0,
+@dialog say = res\script\talk\skill.txt,isFile = 1,

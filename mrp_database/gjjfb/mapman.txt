@@ -1,0 +1,14 @@
+////地图人物形象
+
+@count=8
+
+@mapman|@id=0|@src=boss.ani
+@mapman|@id=1|@src=man2.ani
+@mapman|@id=2|@src=boss.ani
+@mapman|@id=3|@src=old2.ani
+@mapman|@id=4|@src=oldman.ani
+@mapman|@id=5|@src=robot.ani
+@mapman|@id=6|@src=uncle.ani
+@mapman|@id=7|@src=woman.ani
+
+

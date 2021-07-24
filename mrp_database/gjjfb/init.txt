@@ -1,0 +1,12 @@
+////游戏初始化文件
+@gameName=robotWar
+@isDebug=false
+@initScence=42
+@initPlace=0
+@initX=176
+@initY=144
+@initDir=left
+@moveSpeed=4
+@maxLevel=40
+@attackMaxMan=2
+@allAttackMaxMan=5

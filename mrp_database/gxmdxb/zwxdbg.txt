@@ -1,0 +1,54 @@
+o_main o_initSystemEx end
+game play
+240320
+载入语言
+字库初始化
+收费初始化成功
+uiac初始化
+gary_debug
+o_main o_initSystemEx end
+game play
+240320
+载入语言
+字库初始化
+收费初始化成功
+uiac初始化
+gary_debug
+o_main o_initSystemEx end
+game play
+240320
+载入语言
+字库初始化
+收费初始化成功
+uiac初始化
+PROC_GAME_GARY
+cb_read 
+cb_read 
+cb_read 
+cb_read 
+cb_read 
+cb_read 
+PROC_GAME_GARY
+cb_read 
+cb_read 
+cb_read 
+cb_read 
+cb_read 
+cb_read 
+PROC_GAME_GARY
+NEW game
+cb_read 
+cb_read 
+PROC_GAME_GARY
+FIRST
+cb_read 
+cb_read 
+gary_debug
+o_main o_initSystemEx end
+game play
+240320
+载入语言
+字库初始化
+收费初始化成功
+uiac初始化
+gary_debug

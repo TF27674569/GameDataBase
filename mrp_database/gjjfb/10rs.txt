@@ -1,0 +1,10 @@
+@name=世界之塔入口
+
+@appearEnemy|@maxCount=1|@mID=33&30,36&30,27&30,141&10|@level=75,80|@tcount=4|@tlevel=3|@alevel=3|@dlevel=3|@wlevel=3
+
+@phaseAllStart
+
+
+
+
+@phaseEnd

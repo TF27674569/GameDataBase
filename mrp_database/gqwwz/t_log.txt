@@ -1,0 +1,30 @@
+****** GallopGame_ReleaseSource g_timer = -1299443436 ******
+****** GallopGame_ReleaseSource g_timer = -1299443436 ******
+****** MR_KEY_SOFTRIGHT ******
+****** GallopGame_ReleaseSource g_timer = -1299486756 ******
+****** MR_KEY_SOFTRIGHT ******
+****** GallopGame_ReleaseSource g_timer = -1299486756 ******
+****** GallopGame_ReleaseSource g_timer = -1299443436 ******
+****** GallopGame_ReleaseSource g_timer = -1299443436 ******
+****** GallopGame_ReleaseSource g_timer = -1299443436 ******
+****** MR_KEY_SOFTRIGHT ******
+****** GallopGame_ReleaseSource g_timer = -1299490276 ******
+****** MR_KEY_SOFTRIGHT ******
+****** GallopGame_ReleaseSource g_timer = -1299490276 ******
+****** GallopGame_ReleaseSource g_timer = -1299443436 ******
+****** GallopGame_ReleaseSource g_timer = -1299443436 ******
+****** MR_KEY_SOFTRIGHT ******
+****** GallopGame_ReleaseSource g_timer = -1299490276 ******
+****** GallopGame_ReleaseSource g_timer = -1299490276 ******
+****** GallopGame_ReleaseSource g_timer = -1299443436 ******
+****** GallopGame_ReleaseSource g_timer = -1299443436 ******
+****** GallopGame_ReleaseSource g_timer = -1299443436 ******
+****** GallopGame_ReleaseSource g_timer = -1299443436 ******
+****** MR_KEY_SOFTRIGHT ******
+****** GallopGame_ReleaseSource g_timer = -1299486756 ******
+****** MR_KEY_SOFTRIGHT ******
+****** GallopGame_ReleaseSource g_timer = -1299486756 ******
+****** MR_KEY_SOFTRIGHT ******
+****** GallopGame_ReleaseSource g_timer = -1299490276 ******
+****** GallopGame_ReleaseSource g_timer = -1299967716 ******
+****** GallopGame_ReleaseSource g_timer = -1299967716 ******

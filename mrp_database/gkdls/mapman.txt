@@ -1,0 +1,14 @@
+////地图人物形象
+
+@count=7
+
+@mapman|@id=0|@src=man2.ani
+@mapman|@id=1|@src=man4.ani
+@mapman|@id=2|@src=man15.ani
+@mapman|@id=3|@src=s8.ani
+@mapman|@id=4|@src=yao.ani
+@mapman|@id=5|@src=s13.ani
+@mapman|@id=6|@src=s12.ani
+
+
+
